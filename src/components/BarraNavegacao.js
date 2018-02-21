@@ -33,7 +33,7 @@ const css = StyleSheet.create({
   barraTitulo: {
     backgroundColor: '#ccc',
     padding: 10,
-    paddingTop: 20,
+    paddingTop: 20,ta
     height: 60,
     flexDirection: 'row'
   },
